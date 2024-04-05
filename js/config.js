@@ -5,6 +5,6 @@ window._config = {
         region:             'us-east-2'          // e.g. us-east-2
     },
     api: {
-        invokeUrl:          'https://cognito-idp.us-east-2.amazonaws.com/us-east-2_BaDDNp0xT/.well-known/jwks.json'          // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+        invokeUrl:          'https://d7p6b8q3dc.execute-api.us-east-2.amazonaws.com/prod'          // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     }
 };
